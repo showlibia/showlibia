@@ -3,7 +3,7 @@ I'm a CS Learner from WHU.
 
 My blog is [here](https://blog.zymatrix.top/)
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=showlibia" /> </div>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=showlibia)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=showlibia&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
