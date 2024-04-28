@@ -3,6 +3,14 @@ I'm a CS Learner from WHU.
 
 My blog is [here](https://blog.zymatrix.top/)
 
+### Skills
+
+My primary programming languages are C/C++ and Python. I am currently delving into database kernel development and actively engaging in research related to AI speech technologies.
+
+[![My Skills](https://skillicons.dev/icons?i=arch,c,cpp,cmake,ai,latex,linux,md,neovim,mysql,py,pytorch,vim,vscode,git&perline=8)](https://skillicons.dev)
+
+### GitHub Status
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=showlibia&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **showlibia/showlibia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
