@@ -5,7 +5,7 @@ My blog is [here](https://blog.zymatrix.top/)
 
 ### Skills
 
-My primary programming languages are C/C++ and Python. I am currently delving into database kernel development and actively engaging in research related to AI speech technologies.
+My primary programming languages are C/C++ and Python. I am currently delving into database kernel development and actively engaging in research related to AI speech technologies and NLP.
 
 [![My Skills](https://skillicons.dev/icons?i=arch,c,cpp,cmake,java,ai,latex,linux,md,neovim,mysql,py,pytorch,vim,vscode,git&perline=8)](https://skillicons.dev)
 
